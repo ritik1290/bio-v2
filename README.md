@@ -9,7 +9,7 @@ It’s fully open for viewing and sharing, but not for code reuse or modificatio
 
 ## 📁 Contents
 - `index.html` — The main webpage
-- `me.png` — Personal image used on the page
+- `ritik-profile.jpg` — Personal image used on the page
 - `LICENSE` — Custom license protecting the source code
 
 ---
