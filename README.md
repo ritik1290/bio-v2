@@ -11,6 +11,7 @@ It’s fully open for viewing and sharing, but not for code reuse or modificatio
 - `index.html` — The main webpage
 - `ritik-profile.jpg` — Personal image used on the page
 - `LICENSE` — Custom license protecting the source code
+- `ritik_cv.pdf` — CV
 
 ---
 
