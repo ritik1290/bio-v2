@@ -3,12 +3,6 @@ My personal BIOS webpage — version 2. Fully viewable and shareable, but not op
 
 ---
 
-**Version 2 of my personal BIOS webpage.**  
-A minimal single-page HTML project containing my biography and personal details.  
-It’s fully open for viewing and sharing, but not for code reuse or modification.
-
----
-
 ## 📂 Contents
 *   `index.html` — The main webpage application (Unified Codebase)
 *   `ritikdhage_cv.pdf` — Professional Curriculum Vitae (External)
