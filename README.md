@@ -8,7 +8,6 @@ My personal BIOS webpage — version 2. Fully viewable and shareable, but not op
 *   `ritikdhage_cv.pdf` — Professional Curriculum Vitae (External)
 *   `ritik-profile.jpg` — Professional Portrait (External)
 *   `LICENSE` — Custom license protecting the source code
-*   
 ---
 
 ## ⚖️ License
